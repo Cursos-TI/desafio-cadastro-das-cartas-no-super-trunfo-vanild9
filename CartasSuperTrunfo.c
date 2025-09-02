@@ -20,8 +20,8 @@ int main() {
    scanf("%d", &pontos_turisticos1);
 
    // Cadastro da segunda carta
-   printf("\nDigite o codigo da primeira carta (ex: A01): ");
-   scanf("%s", &codigo2);
+   printf("\nDigite o codigo da segunda carta (ex: A01): ");
+   scanf("%s\n", &codigo2);
    printf("digite a populacao da segunda carta: ");
    scanf("%d", &populacao2);
    printf("digite a area da segunda carta (em km²): ");
