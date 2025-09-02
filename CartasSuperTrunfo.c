@@ -6,7 +6,7 @@ int main() {
    int populacao1, populacao2;
    float area1, area2, pib1, pib2;
    int pontos_turisticos1, pontos_turisticos2;
-   float densidade_populacional1, densidad_populacional2;
+   float densidade_populacional1, densidade_populacional2;
    float pib_per_capita1, pib_per_capita2;
 
    // Cadastro da primeira carta
