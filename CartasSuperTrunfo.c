@@ -31,7 +31,7 @@ int main() {
    printf("digite o numero de pontos turisticos da sefunda carta: ");
    scanf("%d", &pontos_turisticos2);
    
-   // Exibição dos dados da primeira carta
+   // Exibicao dos dados da primeira carta
    printf("\nDados da primeira carta:\n");
    printf("Codigo: %s\n", codigo1);
    printf("Populacao: %d\n", populacao1);
@@ -39,7 +39,7 @@ int main() {
    printf("PIB: %.2f bilhoes\n", pib1);
    printf("Pontos turisticos: %d\n", pontos_turisticos1);
 
-   //Exibição dos dados da segunda carta
+   //Exibicao dos dados da segunda carta
    printf("\nDados da segunda carta: \n");
    printf("Codigo: %s\n", codigo2);
    printf("Populacao: %d\n", populacao2);
